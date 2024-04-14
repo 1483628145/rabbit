@@ -1,5 +1,5 @@
 <template>
-  <RouterView></RouterView>
+  <div>Home首页</div>
 </template>
 
 <script setup>
